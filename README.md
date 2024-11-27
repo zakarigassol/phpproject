@@ -1,8 +1,5 @@
 HORSE HAVEN HUB
 
-Horse Haven Hub is a PHP-based website developed for a horse-riding club to streamline membership management, enhance communication with members, and improve the user experience. 
-The platform enables visitors to explore membership plans, users to register and manage memberships, and administrators to oversee and maintain all website data efficiently.
-
 Project Overview
 
 The goal of Horse Haven Hub is to simplify the membership registration process and create a centralized platform for club operations, facilitating efficient administrative and communication tasks for both users and the club administration.
